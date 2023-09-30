@@ -12,3 +12,4 @@ communicate report to HR manager for decision making.
 ## Analysis Breakdown ![](Screenshot_20230917-213243.png)
 ## Telecom Analysis Report ![](Screenshot_20230917-213258.png)
 
+## Customer retention Analysis z![](Screenshot_20230917-213139.png)
