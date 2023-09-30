@@ -9,5 +9,5 @@ communicate report to HR manager for decision making.
  - Leveraged analytical problem solving skills to examine HR data
  - Delivering valuable insight amd actionable suggestions based on data analysis
 
-## Telecom Analysis Report
-/storage/emulated/0/Pictures/Screenshot/Screenshot_20230917-213258.png
+## Telecom Analysis Report Screenshot_20230917-213258.png
+
