@@ -1,6 +1,6 @@
 # josh_portfolio
 
-# [Project-1: Telecommunication Data Model]
+# [Project-1: Telecommunication Data Model](https://github.com/ajeebs/josh_portfolio/edit/main/README.md)
 
 This is a project i did on forage, where i built dashboards from three dataset to
 communicate report to HR manager for decision making.
