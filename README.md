@@ -10,6 +10,9 @@ communicate report to HR manager for decision making.
  - Delivering valuable insight amd actionable suggestions based on data analysis
 
 ## Analysis Breakdown ![](Screenshot_20230917-213243.png)
+
 ## Telecom Analysis Report ![](Screenshot_20230917-213258.png)
 
-## Customer retention Analysis z![](Screenshot_20230917-213139.png)
+## Customer retention Analysis ![](Screenshot_20230917-213139.png)
+
+## Call response ![](Screenshot_20230917-213115.png)
