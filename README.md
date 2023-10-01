@@ -17,7 +17,7 @@ communicate report to HR manager for decision making.
 
 ## Call response ![](Screenshot_20230917-213115.png)
 
-#[Project-2: Marketing Data Model](https://github.com/ajeebs/josh_portfolio/edit/main/README.md)
+# [Project-2: Marketing Data Model](https://github.com/ajeebs/josh_portfolio/edit/main/README.md)
 
 This projecr was done during KPMG job Simulation_Data Analytic on Forage and majorly focused on 
 data modelling , visualization and presentation.
