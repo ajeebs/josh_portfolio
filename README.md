@@ -27,3 +27,5 @@ data modelling , visualization and presentation.
  - Data modelling was done to merge the columns needed from the three sataset into one complete table for proper analysis
  - Data was analysed to target high valued customers based on demographic attributes
  - Developed dashboards to communicate findings with visuals
+
+## Visual representation ![](Screenshot_20231001-134507.png)
