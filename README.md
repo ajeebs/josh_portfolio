@@ -3,6 +3,7 @@
 # [Project-1: Superstore sales performance analysis](https://github.com/ajeebs/josh_portfolio/edit/main/README.md)
 
 **Project Overview**
+
 This project analyzes Super Store sales data to understand overall sales performance, customer purchasing patterns, product performance, regional performance, payment methods, returns, and shipping preferences.
 The project uses Power BI to transform sales data into an interactive dashboard that provides a clear view of key business performance indicators and helps identify areas of strong performance and potential improvement.
 The analysis covers 5,901 sales orders across 2019 and 2020, with total sales of approximately $1.57 million.
@@ -21,6 +22,7 @@ The analysis focuses on questions such as:
  - Where are there differences between sales and profitability?
 
 **Project Objectives**
+
 The main objectives of this project were to:
  - Analyze overall sales performance.
  - Compare sales performance across years.
@@ -32,6 +34,7 @@ The main objectives of this project were to:
  - Create an interactive Power BI dashboard for business decision-making.
 
 **Tools & Technologies**
+
 Power BI
 Used for:
  - Data visualization
@@ -51,6 +54,7 @@ The project involved:
  - Customer behavior analysis
 
 **Key Findings**
+
 1. Sales increased substantially from 2019 to 2020
 The supplied dataset shows:
 2019 sales: approximately $564,679.49
@@ -107,10 +111,10 @@ Based on the analysis, the business could:
 7. Use shipping data to optimize logistics and delivery planning.
 8. Analyze high-performing products and customers to identify opportunities for continued growth.
 
-## Sales Overview ![](<img width="574" height="325" alt="Screenshot 2026-09-29 175448" src="https://github.com/user-attachments/assets/448adcd6-babb-47d6-9bff-84a29b415ea0" />
+## Sales Overview (<img width="574" height="325" alt="Screenshot 2026-09-29 175448" src="https://github.com/user-attachments/assets/448adcd6-babb-47d6-9bff-84a29b415ea0" />
 )
 
-## Sales(State) Overview ![](<img width="584" height="317" alt="Screenshot 2026-09-29 175558" src="https://github.com/user-attachments/assets/5c026f00-06ca-4d44-b566-3f4608474858" />
+## Sales(State) Overview (<img width="584" height="317" alt="Screenshot 2026-09-29 175558" src="https://github.com/user-attachments/assets/5c026f00-06ca-4d44-b566-3f4608474858" />
 )
 
 # [Project-2: Telecommunication Data Model](https://github.com/ajeebs/josh_portfolio/edit/main/README.md)
