@@ -107,9 +107,11 @@ Based on the analysis, the business could:
 7. Use shipping data to optimize logistics and delivery planning.
 8. Analyze high-performing products and customers to identify opportunities for continued growth.
 
-## Sales Overview ![](Screenshot 2026-09-29 175448.png)
+## Sales Overview ![](<img width="574" height="325" alt="Screenshot 2026-09-29 175448" src="https://github.com/user-attachments/assets/448adcd6-babb-47d6-9bff-84a29b415ea0" />
+)
 
-## Sales(State) Overview ![](Screenshot 2026-09-29 175558.png)
+## Sales(State) Overview ![](<img width="584" height="317" alt="Screenshot 2026-09-29 175558" src="https://github.com/user-attachments/assets/5c026f00-06ca-4d44-b566-3f4608474858" />
+)
 
 # [Project-2: Telecommunication Data Model](https://github.com/ajeebs/josh_portfolio/edit/main/README.md)
 
