@@ -52,14 +52,12 @@ The project involved:
 
 **Key Findings**
 1. Sales increased substantially from 2019 to 2020
-
 The supplied dataset shows:
 2019 sales: approximately $564,679.49
 2020 sales: approximately $1,001,124.83
 This represents approximately 77.3% growth in sales from 2019 to 2020.
 
 2. December 2020 recorded the highest monthly sales
-
 Based on the supplied sales data, December 2020 generated approximately:
 $166,185.85. This was the highest monthly sales figure in the dataset.
 November 2020 was the second-highest month at approximately $130,960.83, followed by September 2020 at approximately $119,803.65.
@@ -108,6 +106,10 @@ Based on the analysis, the business could:
 6. Continue monitoring customer payment preferences.
 7. Use shipping data to optimize logistics and delivery planning.
 8. Analyze high-performing products and customers to identify opportunities for continued growth.
+
+## Sales Overview ![](Screenshot 2026-09-29 175448.png)
+
+## Sales(State) Overview ![](Screenshot 2026-09-29 175558.png)
 
 # [Project-2: Telecommunication Data Model](https://github.com/ajeebs/josh_portfolio/edit/main/README.md)
 
